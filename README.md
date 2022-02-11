@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tai-trieua
 - 👀 I’m interested in Electric Automation, Robot and Android app develop
 - 🌱 I’m currently learning Java, C#, Python language
-- 💞️ I’m looking to collaborate on IoT in industrial
+- 💞️ I’m looking to collaborate on IoT in industrial, Android App
 - 📫 Contact to me following email atai11d2clc.bk@gmail.com
 
 <!---
